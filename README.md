@@ -71,8 +71,9 @@ Use this Package and (getAwayFromThePain) create Express+Mongoose BoilerPlate
  * Directly Start Working on the real Logic
  * Reduce time of Development by atleast 10% 
 
-## Please Contribute Models and Controllers
+### Please Contribute Models and Controllers
 
+#### Become a Open Source Contributer
 We **express-schema-generator** wants to help Each and Every Programmer Writing real Logical code, without **wasting time** of Generating the MVC Schema.
 
 So We are Here to Add as much as Models and Controllers and Other important files as Possible 
@@ -83,9 +84,9 @@ If you have written any **unique schema**, Add that to this list, How?Simple
 
  * Go the [Github Repo](https://github.com/shaantanu9/express-schema-generator)
  * Fork that Repo => Add the [Model](https://github.com/shaantanu9/express-schema-generator/tree/main/samples/models) and [Contoller](https://github.com/shaantanu9/express-schema-generator/tree/main/samples/Contollers) in [Samples](https://github.com/shaantanu9/express-schema-generator/tree/main/samples) 
- *Clone and Download it and Add the File in given manner. 
- *Name of the Model Need to be **Unique** and **Self explainatory**
- *upload in your Repo => Pull Request and Done
+ * Clone and Download it and Add the File in given manner. 
+ * Name of the Model Need to be **Unique** and **Self explainatory**
+ * Upload in your Repo => Pull Request and Done
  
  
  ## Licence
