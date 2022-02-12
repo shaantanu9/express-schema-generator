@@ -92,6 +92,9 @@ If you have written any **unique schema**, Add that to this list, How?Simple
  ## Licence
  MIT
  
+ #### I love to work with Open Source Projects
+ #### Contact Me [Twitter](https://twitter.com/ShantanuMali9) [Linkedin](https://www.linkedin.com/in/shantanu-bombatkar)  
+ 
  ## Keywords
  [express-schema-generator](https://www.npmjs.com/search?q=keywords:express-schema-generator) [express-mongoose-boilerplate](https://www.npmjs.com/search?q=keywords:express-mongoose-boilerplate) [mongoose-boilerplate](https://www.npmjs.com/search?q=keywords:mongoose-boilerplate) [mvc express schema](https://www.npmjs.com/search?q=keywords:mvc-express-schema) [](https://www.npmjs.com/search?q=keywords:) [express-schema](https://www.npmjs.com/search?q=keywords:express-schema)
 [create-express-server](https://www.npmjs.com/search?q=keywords:create-express-server)
