@@ -10,7 +10,7 @@ router.patch('/:id',crudController(Tag).patch)
 
 router.post('',crudController(Tag).post)
 
-router.delete('/:id',crudController(Tag).delete)
+router.delete('/:id',crudController(Tag).deleteOne)
 
 
 module.exports = router;

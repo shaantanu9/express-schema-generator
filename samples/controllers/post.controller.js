@@ -12,7 +12,7 @@ router.patch('/:id',crudController(Post).patch)
 
 router.post('',crudController(Post).post)
 
-router.delete('/:id',crudController(Post).delete)
+router.delete('/:id',crudController(Post).deleteOne)
 
 
 module.exports =router;

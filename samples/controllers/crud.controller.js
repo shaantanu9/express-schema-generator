@@ -20,7 +20,7 @@ const post = (model) => async(req, res) => {
     }
 }
 
-const deleteone = (model) =>async(req, res) => {
+const deleteOne = (model) =>async(req, res) => {
     const user = await model.findByIdAndDelete(req.params.id).lean()
     res.send(user)
 }
@@ -30,6 +30,6 @@ module.exports = (model) => {
         post: post(model),
         patch:patch(model),
         get: get(model),
-        delete: deleteone(model)
+        delete: deleteOne(model)
     };
 }
