@@ -30,6 +30,6 @@ module.exports = (model) => {
         post: post(model),
         patch:patch(model),
         get: get(model),
-        delete: deleteOne(model)
+        deleteOne: deleteOne(model)
     };
 }

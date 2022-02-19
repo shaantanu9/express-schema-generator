@@ -8,6 +8,7 @@ const UserSchema = mongoose.Schema({
         "email": {type:String,required:true},
         "gender": {type:String,required:true},
         "address": {type:String,required:true}
+        "pic": {type:String}
 })
 
 module.exports = mongoose.model("user",UserSchema)
